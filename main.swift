@@ -101,8 +101,8 @@ func Science() {
 
 func Entertainment() {
     print("You picked Entertainment questions! Now let's begin")
-    let questions = ["What was the first toy to be advertised on television?", "What was the first feature-length animated movie ever released? (Hint: It was a Disney Movie)", "What TV series showed the first interracial kiss on American network television?", "What were the four main characters' names in the TV series Golden Girls that ran from 1985-1992?", "Who created Sherlock Holmes?", "What awards has an EGOT winner won?", "Which member of the Beatles married Yoko Ono?", "What are the names of Cinderella’s stepsisters?", "What famous US festival hosted over 350,000 fans in 1969?", "The biggest selling music single of all time is?", "When Walt Disney was a child, which character did he play in his school function?"]
-    let answers = ["Mr Potato Head", "Snow White and the Seven Dwarfs", "Star Trek", "Dorothy, Rose, Blanche, and Sophia", "Arthur Conan Doyle", "Emmy, Grammy, Oscar, and a Tony", "John Lennon", "Anastasia and Drizella", "Woodstock", "Candle in the Wind", "Peter Pan"]
+    let questions = ["What was the first toy to be advertised on television?", "What was the first feature-length animated movie ever released? (Hint: It was a Disney Movie)", "What were the two highest grossing films?", "What is the name of Gumball's adopted brother in the TV series The Amazing World of Gumball?", "Who created Sherlock Holmes?", "What awards has an EGOT winner won?", "Which member of the Beatles married Yoko Ono?", "What are the names of Cinderella’s stepsisters?", "What famous US festival hosted over 350,000 fans in 1969?", "The biggest selling music single of all time is?", "When Walt Disney was a child, which character did he play in his school function?"]
+    let answers = ["Mr Potato Head", "Snow White and the Seven Dwarfs", "Avengers Endgame and Avatar", "Darwin", "Arthur Conan Doyle", "Emmy, Grammy, Oscar, and a Tony", "John Lennon", "Anastasia and Drizella", "Woodstock", "Candle in the Wind", "Peter Pan"]
     var count = 0
     var points = 0
     for _ in questions {
